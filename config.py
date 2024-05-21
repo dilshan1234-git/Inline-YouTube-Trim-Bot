@@ -17,5 +17,5 @@ import os
 class Config:
     API_ID = int(os.environ.get("API_ID", '14631157'))
     API_HASH = os.environ.get("API_HASH", "aa7c2b3be68a7488abdb9de6ce78d311")
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "6898599695:AAE-rukB-OoPJgxOOOcKKuK_8gv55HiC4ww")     
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "5927429053:AAGNa4VeQEOM5_Fj_mmq-21OqB6qr308DDU")     
     LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", '-1002106332206'))
